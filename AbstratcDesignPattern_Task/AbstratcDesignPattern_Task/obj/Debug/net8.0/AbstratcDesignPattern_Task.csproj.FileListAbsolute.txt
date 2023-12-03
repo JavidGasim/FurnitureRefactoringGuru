@@ -1,0 +1,4 @@
+C:\Users\gasim\source\repos\AbstratcDesignPattern_Task\AbstratcDesignPattern_Task\obj\Debug\net8.0\AbstratcDesignPattern_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\AbstratcDesignPattern_Task\AbstratcDesignPattern_Task\obj\Debug\net8.0\AbstratcDesignPattern_Task.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\AbstratcDesignPattern_Task\AbstratcDesignPattern_Task\obj\Debug\net8.0\AbstratcDesignPattern_Task.AssemblyInfo.cs
+C:\Users\gasim\source\repos\AbstratcDesignPattern_Task\AbstratcDesignPattern_Task\obj\Debug\net8.0\AbstratcDesignPattern_Task.csproj.CoreCompileInputs.cache
